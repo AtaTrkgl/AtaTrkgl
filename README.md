@@ -21,12 +21,13 @@
 
 ## 🧑‍💻 **About me:**
 
-I'm a 📖 **student**, ⌨️ **developer** & 🎮 **gamer** from İzmir, Turkey.
+I'm a 📖 **student**, ⌨️ **developer** and 🎮 **gamer** from İzmir, Turkey.
 
 -   💻 Developer of [Project Chemistry](https://store.steampowered.com/app/1270620) & [Ingression](https://store.steampowered.com/app/1966970).
 -   ⚡ Currently working on my new portal-platformer, [Ingression](https://store.steampowered.com/app/1966970).
 -   ⚙️ Maintaining DartCore packages for unity: [Utilities](https://openupm.com/packages/com.dartcore.utilities/), [Localization](https://openupm.com/packages/com.dartcore.localization/) & [UI](https://openupm.com/packages/com.dartcore.ui/).
 -   🎓 Studying Artificial Intelligence & Data Engineering @ [Istanbul Technical University](https://www.itu.edu.tr/).
+-   📱 My apps on Google Play Store: [Diabetic Now](https://play.google.com/store/apps/details?id=com.diabetic_now) & [Apsis](https://play.google.com/store/apps/details?id=com.ataturkoglu.apsis).
 -   ⌨️ Currently using Unity & C# daily.
 
 ## ⚒️ **Languages & Tools:**
