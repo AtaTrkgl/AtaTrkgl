@@ -5,11 +5,11 @@
   <br>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ata-trkgl/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.linkedin.com/in/atatrkgl/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://github.com/AtaTrkgl"><img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
     <a href="https://www.reddit.com/user/dartyet1"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
     <a href="https://steamcommunity.com/id/dartyet1"><img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
-    <a href="https://twitter.com/dartyet1"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+    <a href="https://twitter.com/atatrkgl"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   </div>
 </div>
 
