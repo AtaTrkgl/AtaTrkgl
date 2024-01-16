@@ -33,13 +33,13 @@ I'm a 📖 **student**, ⌨️ **developer** and 🎮 **gamer** from İzmir, Tur
 ## ⚒️ **Languages & Tools:**
 
 <div align="center">
-  <img align="right" width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaTrkgl&layout=compact&theme=github_dark" />
-  <img width="37%" src="https://skillicons.dev/icons?i=unity,cs,py,flutter,dart,html,css,js,git&perline=4" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaTrkgl&layout=compact&theme=transparent&exclude_repo=yzv-475e-term-project" />
+  <img width="47%" src="https://skillicons.dev/icons?i=unity,cs,py,flutter,dart,html,css,js&perline=4" />
 </div>
 
 ## 🔥 **My Github stats:**
 
 <div align="center">
-  <img align="right" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=AtaTrkgl&theme=github-dark-blue" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AtaTrkgl&show_icons=true&theme=github_dark" />
+  <img align="right" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=AtaTrkgl&theme=transparent" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AtaTrkgl&show_icons=true&theme=transparent" />
 </div>
