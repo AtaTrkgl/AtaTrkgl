@@ -33,7 +33,7 @@ I'm a 📖 **student**, ⌨️ **developer** and 🎮 **gamer** from İzmir, Tur
 ## ⚒️ **Languages & Tools:**
 
 <div align="center">
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaTrkgl&layout=compact&theme=transparent&exclude_repo=yzv-475e-term-project" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaTrkgl&layout=compact&theme=transparent&hide=shaderlab,jupyter%20notebook" />
   <img width="47%" src="https://skillicons.dev/icons?i=unity,cs,py,flutter,dart,html,css,js&perline=4" />
 </div>
 
